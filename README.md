@@ -19,4 +19,4 @@
 
 ![englishub](https://github.com/user-attachments/assets/e253b0d9-f9cf-42e2-a2ba-b708122c436d)
 
-**🚀 Get Started Now!
+** 🚀 Get Started Now!
