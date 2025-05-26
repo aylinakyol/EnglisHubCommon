@@ -1,6 +1,6 @@
-### EnglisHub: Your Personalized English Learning Companion
+# EnglisHub: Your Personalized English Learning Companion
 
-# 🚀 Welcome to EnglisHub – the ultimate platform for assessing and improving your English skills! Whether you're a beginner or an advanced learner, EnglisHub helps you track your progress in Reading, Grammar, and Vocabulary with customized tests and detailed performance analytics.
+### 🚀 Welcome to EnglisHub – the ultimate platform for assessing and improving your English skills! Whether you're a beginner or an advanced learner, EnglisHub helps you track your progress in Reading, Grammar, and Vocabulary with customized tests and detailed performance analytics.
 ✨ Key Features
 
 * ✅ Personalized Skill Assessment – Get your English level evaluated in Reading, Grammar, and Vocabulary through adaptive tests.
