@@ -19,5 +19,4 @@
 
 ![englishub](https://github.com/user-attachments/assets/e253b0d9-f9cf-42e2-a2ba-b708122c436d)
 
-(You can insert screenshots here showing the test interface, score dashboard, and progress charts.)
 **🚀 Get Started Now!
